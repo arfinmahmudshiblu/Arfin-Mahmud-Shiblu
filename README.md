@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arfinmahmudshiblu&label=Profile%20views&color=0e75b6&style=flat" alt="arfinmahmudshiblu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arfinmahmudshiblu" alt="arfinmahmudshiblu" /></a> </p>
-
 - 🔭 I’m currently working on [Deep Learning & Generative AI](https://aiquest.org/courses/deep-learning-and-generative-ai/)
 
 - 🌱 I’m currently learning **Deep Learning & Generative AI**
